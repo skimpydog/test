@@ -1,5 +1,5 @@
 <?php
-echo "This is a PHP example utilizing git"
+echo "This is a PHP example utilizing git";
 phpinfo();
 
 ?>
